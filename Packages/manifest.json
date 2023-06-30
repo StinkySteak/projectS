@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "com.codewriter.triinspector": "https://github.com/codewriter-packages/Tri-Inspector.git",
+    "com.marijnzwemmer.unity-toolbar-extender": "https://github.com/marijnz/unity-toolbar-extender.git",
+    "com.stinkysteak.pubsub": "https://github.com/StinkySteak/com.stinkysteak.pubsub.git",
+    "com.stinkysteak.simulationtimer": "https://github.com/StinkySteak/com.stinkysteak.simulationtimer.git",
     "com.unity.feature.2d": "1.0.0",
     "com.unity.ide.visualstudio": "2.0.17",
     "com.unity.render-pipelines.universal": "12.1.10",
